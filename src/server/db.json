@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "6cb1",
+      "email": "eve.holt@reqres.in",
+      "name": "Eve",
+      "password": "cityslicka"
+    },
+    {
+      "id": "bc8a",
+      "email": "abhijeetrou123@gmail.com",
+      "name": "Abhijeet Roy",
+      "password": "1289105520"
+    },
+    {
+      "id": "2e64",
+      "email": "eve.holt@reqres.in",
+      "name": "ABHIJEET ROY",
+      "password": "cityslicka"
+    },
+    {
+      "id": "17bb",
+      "email": "abhijeetroyy9088@gmail.com",
+      "name": "Abhijeet Roy",
+      "password": "00000000"
+    }
+  ]
+}
