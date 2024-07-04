@@ -1,36 +1,38 @@
-## Redesigning a Website's UI Without Changing Its Core Theme
-Welcome to the project where we have undertaken the challenge of redesigning Etsy.com's user interface and theme while maintaining its core functionality and context. Our primary goal was to enhance the visual appeal and user experience without disrupting the familiar essence of the website.
-# Table of Contents
-   Project Overview
-  Changes Implemented
-    • Overall Design
-    • Footer
-    • What is Etsy? Content Block
-    • Home Page - Shop Our Popular Gift Categories
-  Technologies Used
-  Contact
-# Project Overview:
-In this project, we redesigned Etsy.com's UI and theme to improve spacing, enhance visual elements, and simplify content presentation, creating an elegant and user-friendly experience.
-# Changes Implemented:
-Overall Design
-Increased Spacing: We increased the overall spacing throughout the website, which was previously compact, to create a more open and breathable layout.
-Footer
-Color Change: The footer's color has been changed from blue to a sophisticated grey (#17192359).
-Enhanced Spacing: Increased space in the footer area gives it an elegant and modern look.
-Tile Size: Each product tile has been slightly increased in both height and width.
-Hover Effect: When hovered over, the product tiles now pop out or zoom in, providing a dynamic and engaging user experience.
+# Re-Imagine: Redesigning Etsy.com
 
-# What is Etsy? Content Block
-Simplified Content Block: The previous scroll-in animation, which split the information into three pages, has been converted into a single content block. This change offers a straightforward and simplistic presentation of the information.
+## 📜 Project Overview
 
-# Home Page - Shop Our Popular Gift Categories
-Hover Functionality: Enhanced hover functionality now displays a brief detail about the product. Previously, only the image and its category were shown, with details available only after clicking the image.
+**Re-Imagine** is a hackathon project aimed at enhancing the visual appeal and user experience of Etsy.com without altering its core functionality. The goal is to create a more engaging and user-friendly interface.
 
-# Technologies Used
-1. React
-2. Chakra Ui
+## ✨ Key Features
 
-# Authentication
-    It is done locally for that run 
-    json-server --watch db.json --port 5000
-    for authentication
+### 🔍 Overall Design Enhancements
+- **Increased Spacing:** Created a more open and breathable layout.
+- **Footer Redesign:** Updated footer color to grey (#17192359) and improved spacing for better visual clarity.
+- **Product Tile Improvements:** Enlarged product tiles and added a pop-out/zoom-in effect on hover.
+
+### 🛠 Content Block Simplification
+- **Unified Content:** Combined "What is Etsy?" content into a single block, removing the multi-page scroll-in animation for a smoother experience.
+
+### 🏠 Home Page Enhancements
+- **Hover Functionality:** Added brief product details on hover for quick information access.
+
+## 🛠 Technologies Used
+- **React**
+- **Chakra UI**
+
+## 🔒 Authentication
+Local authentication is handled using JSON Server. To start the server:
+```bash
+json-server --watch db.json --port 5000
+```
+
+## 🌐 Live Project
+Check out the live project [here](https://etsyreimagine.netlify.app/).
+
+## 📬 Contact
+For more details, visit the [GitHub repository](https://github.com/abhijeetroyyy/Re-Imagine).
+
+---
+
+We hope you enjoy the revamped experience of Etsy.com with Re-Imagine!
